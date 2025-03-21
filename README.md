@@ -21,3 +21,14 @@ Devo restituire un valore?
 Se sì, di che tipo?
 
 Buon lavoro e buon divertimento!
+
+Esercizio 1
+Chiedere all'utente una parola palindroma.
+Se è palindroma, allora è corretto.
+Se non è palindroma, allora non è corretto.
+Se non è corretto, chiedere nuovamente.
+
+Esercizio 2
+L'utente può scegliere un numero da 1 a 5.
+Si genera un numero random tra 1 e 5, usando una funzione.
+In base alla somma dei due numeri, si stabilisce chi vince se è pari o dispari.
